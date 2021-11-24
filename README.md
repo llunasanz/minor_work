@@ -4,6 +4,8 @@
 ## Code from my Master's in Data Analysis at EDEM
 [https://github.com/llunasanz/edem2021-MDA](https://github.com/llunasanz/edem2021-MDA)
 - *Data Analysis* *Docker* *Python* *Requests* *SQL*
+- [Statistics in Python)(https://github.com/llunasanz/edem2021-MDA/blob/master/prog_stat_01/tarea_01.ipynb)
+- [Talend and SQL exercises](https://github.com/llunasanz/edem2021-MDA/blob/master/ejercicios_talend_lluna_.pdf)
 - Master's in process: more files and tags will be added.
 
 ## 2021 Capgemini's Datathon material 
